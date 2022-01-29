@@ -2,7 +2,7 @@
 
 ![MV* Architectures](img/mv.png)
 
-## Télécharger PDF
+## Download PDF
 [![Download TP2](img/pdf.png)](tp2.pdf)
 
 ## Introduction
