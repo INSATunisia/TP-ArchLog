@@ -1,0 +1,92 @@
+site_name: TP Architectures Logicielles
+site_description: Les Travaux Pratiques du cours Architectures Logicielles
+site_author: Hela Chikhaoui
+site_url: http://INSATunisia.github.io/TP-ArchLog/
+
+# Repository
+repo_name: INSATunisia/TP-ArchLog
+repo_url: https://github.com/INSATunisia/TP-ArchLog
+
+# Copyright
+copyright: 'Copyright &copy; 2021 - 2022 Hela Chikhaoui'
+
+# Theme directory
+
+theme:
+  name: mkdocs
+  feature:
+    tabs: false
+  palette:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+    accent: Amber
+    primary: Blue
+  logo: 'img/logo.png'
+  custom_dir: mkdocs
+  favicon: 'img/favicon.ico'
+  language: 'en'
+
+
+# Options
+extra:
+  feature:
+    tabs: false
+  palette:
+    accent: teal
+    primary: teal
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+  logo: 'img/logo.png'
+
+  social:
+    - type: github-alt
+      link: https://github.com/helachikhaouii
+    - type: linkedin
+      link: https://www.linkedin.com/in/hela-chikhaoui/
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc
+  - pymdownx.arithmatex
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tilde
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - codehilite
+  - fenced_code
+  - fontawesome_markdown
+  - nl2br
+  - tables
+
+# Page tree
+pages:
+   - 'index.md'
+   - TP1 - Les Principes SOLID: 'tp1.md'
+   - TP2 - Les Architectures MV*: 'tp2.md'
+   - TP3 - Real World Scenario (1): 'tp4.md'
+
+extra_javascript: []
+extra_css: []
+use_directory_urls: true
+
+# Google Analytics
+google_analytics:
+  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
+  - auto
