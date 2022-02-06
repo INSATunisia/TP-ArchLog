@@ -1,14 +1,13 @@
-# TP2 - Les Architectures MV* 
 
 ![MV* Architectures](img/mv.png)
 
-## Download PDF
+# Download PDF
 [![Download TP2](img/pdf.png)](tp2.pdf)
 
-## Introduction
+# Introduction
 The MV* architecture is a common software architecture pattern that is motivated by the idea of having [Separated Presentation](https://martinfowler.com/eaaDev/SeparatedPresentation.html) which provides a clear division between domain objects that model our perception of the real world, and presentation objects that are the GUI elements we see on the screen. This reduces the coupling between components and allows each component to be independently developed, tested, modified, reused and scaled.
 
-## Questions
+# Questions
 - MV* is an umbrella term that encompasses variants of this architecture pattern, and they differ in terms of the type and level of coupling between the components. Identify the advantages, disadvantages and use cases of :
     * MVC
     * MVP

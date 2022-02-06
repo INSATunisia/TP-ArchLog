@@ -1,4 +1,4 @@
-site_name: TP Architectures Logicielles
+site_name: Software Architecture Labs
 site_description: Les Travaux Pratiques du cours Architectures Logicielles
 site_author: Hela Chikhaoui
 site_url: http://INSATunisia.github.io/TP-ArchLog/
@@ -11,51 +11,26 @@ repo_url: https://github.com/INSATunisia/TP-ArchLog
 copyright: 'Copyright &copy; 2021 - 2022 Hela Chikhaoui'
 
 # Theme directory
+plugins:
+  - search
+  - autolinks  
+  - git-revision-date-localized:
+      type: timeago
+  - minify:
+      minify_html: true
 
-theme:
-  name: mkdocs
-  feature:
-    tabs: false
-  palette:
-    text: 'Ubuntu'
-    code: 'Ubuntu Mono'
-    accent: Amber
-    primary: Blue
-  logo: 'img/logo.png'
-  custom_dir: mkdocs
-  favicon: 'img/favicon.ico'
-  language: 'en'
-
-
-# Options
-extra:
-  feature:
-    tabs: false
-  palette:
-    accent: teal
-    primary: teal
-    text: 'Ubuntu'
-    code: 'Ubuntu Mono'
-  logo: 'img/logo.png'
-
-  social:
-    - type: github-alt
-      link: https://github.com/helachikhaouii
-    - type: linkedin
-      link: https://www.linkedin.com/in/hela-chikhaoui/
-
-# Extensions
 markdown_extensions:
-  - markdown.extensions.admonition
-  - markdown.extensions.codehilite
-  - markdown.extensions.def_list
-  - markdown.extensions.footnotes
-  - markdown.extensions.meta
-  - markdown.extensions.toc
+  - admonition
+  - meta
+  - toc:
+      permalink: true
+      baselevel: 2
   - pymdownx.arithmatex
-  - pymdownx.betterem
+  - pymdownx.betterem:
+      smart_enable: all
   - pymdownx.caret
   - pymdownx.critic
+  - pymdownx.details
   - pymdownx.emoji:
       emoji_generator: !!python/name:pymdownx.emoji.to_svg
   - pymdownx.inlinehilite
@@ -63,24 +38,26 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.superfences
-  - pymdownx.tasklist
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.tilde
-  - abbr
-  - admonition
-  - attr_list
-  - def_list
-  - codehilite
-  - fenced_code
-  - fontawesome_markdown
-  - nl2br
-  - tables
+
+theme:
+  name: material
+  custom_dir: "theme"
+  logo: "img/logo.png"
+  palette:
+    accent: teal
+    primary: teal
+extra_css:
+  - 'stylesheets/extra.css'
+  - 'stylesheets/links.css'
 
 # Page tree
-pages:
+nav:
    - 'index.md'
-   - TP1 - Les Principes SOLID: 'tp1.md'
-   - TP2 - Les Architectures MV*: 'tp2.md'
-   - TP3 - Real World Scenario (1): 'tp4.md'
+   - Lab1 - The SOLID principles: 'tp1.md'
+   - Lab2 - MV* Architectures : 'tp2.md'
 
 extra_javascript: []
 extra_css: []
