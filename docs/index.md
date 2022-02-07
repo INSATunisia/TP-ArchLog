@@ -9,7 +9,7 @@ author: Lyz
 
 ## GL4 - INSAT
 
-![Logo INSAT](img/insat.jpg)
+![Logo INSAT](img/insat.png)
 
 
 * Course materials: https://liliasfaxi.wixsite.com/liliasfaxi/architecture-logicielle
@@ -19,5 +19,5 @@ author: Lyz
 
 These labs provide hands-on scenarios to experiment with different software architectures. It covers the following topics:
 
-* [TP1](tp1/index.html): The SOLID principles
-* [TP2](tp2/index.html): MV* architectures
+* [Lab1](tp1/index.html): The SOLID principles
+* [Lab2](tp2/index.html): MV* architectures
