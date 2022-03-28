@@ -58,6 +58,7 @@ nav:
    - 'index.md'
    - Lab1 - The SOLID principles: 'tp1.md'
    - Lab2 - MV* Architectures : 'tp2.md'
+   - Lab3 - Microservices Architecture : 'tp3.md'
 
 extra_javascript: []
 extra_css: []
