@@ -2,17 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>http://INSATunisia.github.io/TP-ArchLog/</loc>
-         <lastmod>2022-02-07</lastmod>
+         <lastmod>2022-03-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://INSATunisia.github.io/TP-ArchLog/tp1/</loc>
-         <lastmod>2022-02-07</lastmod>
+         <lastmod>2022-03-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://INSATunisia.github.io/TP-ArchLog/tp2/</loc>
-         <lastmod>2022-02-07</lastmod>
+         <lastmod>2022-03-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://INSATunisia.github.io/TP-ArchLog/tp3/</loc>
+         <lastmod>2022-03-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
