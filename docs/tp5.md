@@ -5,6 +5,8 @@
 
 # Requirements
 The GLx team has been asked to build a backend solution of an online shopping web application that revolves around the following main usecases:
+
+
 - A customer can view products.
 
 - A customer can make purchases.
