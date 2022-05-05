@@ -23,3 +23,4 @@ These labs provide hands-on scenarios to experiment with different software arch
 * [Lab2](tp2/index.html): MV* architectures
 * [Lab3](tp3/index.html): Microservices architecture
 * [Lab4](tp4/index.html): Towards more reactive microservices
+* [Lab5](tp5/index.html): A hybrid software architecture
