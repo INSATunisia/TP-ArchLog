@@ -1,12 +1,3 @@
----
-title:  Software Architecture Labs
-date: 20200409
-author: Lyz
----
-
-<center><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is made available under the terms of the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons attribution-NonCommercial ShareAlike 4.0 international license</a>.
-</center>
-
 ## GL4/RT5 - INSAT
 
 ![Logo INSAT](img/insat.png)
@@ -17,10 +8,18 @@ author: Lyz
 
 ## Overview
 
-These labs provide hands-on scenarios to experiment with different software architectures. It covers the following topics:
+These labs provide hands-on scenarios to experiment with different software architectures. 
+
+<!-- It covers the following topics:
 
 * [Lab1](tp1/index.html): The SOLID principles
 * [Lab2](tp2/index.html): MV* architectures
 * [Lab3](tp3/index.html): Microservices architecture
 * [Lab4](tp4/index.html): Towards more reactive microservices
-* [Lab5](tp5/index.html): A hybrid software architecture
+* [Lab5](tp5/index.html): A hybrid software architecture -->
+
+
+
+
+<center><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is made available under the terms of the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons attribution-NonCommercial ShareAlike 4.0 international license</a>.
+</center>
