@@ -17,12 +17,12 @@ Clone this repository https://github.com/INSATunisia/SOLID locally and go throug
 * ISP (Interface Segregation Principle)
 * DIP (Dependency Inversion Principle)
 
-In each directory, you will find an example with its refactored solution (called example_refactored) and an exercice. You need to appl the given principle to the exercice, model it with UML and explain the reasons of your choice.
+In each directory, you will find an example with its refactored solution (called example_refactored) and an exercice. You need to apply the given principle to the exercice, model it with UML and explain the reasons of your choice.
 
 I invite you to discover [PlantUML](https://plantuml.com/fr/) for designing UML diagrams.
 
 # Deliverables
 You will need to submit the following deliverables in the Classroom space (the work is done by pairs) :
 
-- A report depicting the design of each example before and after the applied modification, with an explanation of the principle and how did you perform the changes.
-- A link of the github repository showing your work.
+- A report depicting the design of each exercise before and after the applied modification, with an explanation of the principle and how/why did you perform the changes.
+- A link of the github repository showing your code.
