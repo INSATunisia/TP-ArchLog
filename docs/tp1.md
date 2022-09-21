@@ -9,10 +9,20 @@ The SOLID principles are design principles that are used in Object-Oriented soft
 
  
 # Questions
-- Clone this repository https://github.com/liliasfaxi/SOLID locally and go through the examples in the following order:
+Clone this repository https://github.com/INSATunisia/SOLID locally and go through the examples in the following order:
   
-    * SRP (Single Responsibility Principle)
-    * OCP (Open-Closed Principle)
-    * LSP (Liskov Substituion Principle)
-    * ISP (Interface Segregation Principle)
-    * DIP (Dependency Inversion Principle)
+* SRP (Single Responsibility Principle)
+* OCP (Open-Closed Principle)
+* LSP (Liskov Substituion Principle)
+* ISP (Interface Segregation Principle)
+* DIP (Dependency Inversion Principle)
+
+In each directory, you will find an example with its refactored solution (called example_refactored) and an exercice. You need to appl the given principle to the exercice, model it with UML and explain the reasons of your choice.
+
+I invite you to discover [PlantUML](https://plantuml.com/fr/) for designing UML diagrams.
+
+# Deliverables
+You will need to submit the following deliverables in the Classroom space (the work is done by pairs) :
+
+- A report depicting the design of each example before and after the applied modification, with an explanation of the principle and how did you perform the changes.
+- A link of the github repository showing your work.
