@@ -14,11 +14,11 @@ The MV* architecture is a common software architecture pattern that is motivated
     * MVVM  
      
  The Tunisian ministry of health is organizing a software development hackathon in order to be able to recruit the best talent that can develop a mobile application for the EVAX platform. 
-Motivated by the interesting work opportunity (and the even more interesting cash prize), everyone in the GL4 class has decided to participate.
+Motivated by the interesting work opportunity (and the even more interesting cash prize), everyone in your class has decided to participate.
 
 - More than one architecture comes to mind. Keeping in mind that this is a 24 hour highly competitive hackathon where you need to be fast at developing this proof of concept, what architecture would you choose?
 
-Congratulations! Now that you have won the hackathon (and helped your savings ;) ), it is time to actually build the mobile application. It goes without saying that this application should be robust with minimal bugs, so that it can be safely deployed and adopted by the ministry. So, in order for you to be confident with your code, it is recommended to follow a TDD approach in order to catch bugs early on and make sure that you have a higher overall test coverage.
+Congratulations! Now that you have won the hackathon (and helped your savings :wink:), it is time to actually build the mobile application. It goes without saying that this application should be robust with minimal bugs, so that it can be safely deployed and adopted by the ministry. So, in order for you to be confident with your code, it is recommended to follow a TDD approach in order to catch bugs early on and make sure that you have a higher overall test coverage.
 One thing to keep in mind as well is that this application is not a basic CRUD one. It has multiple views with eventual complex operations (like sending vaccine SMS and their reminders, automatically rescheduling missed appointments, etc.).
 
 - Having taken all of the above into consideration, what would be the architectural style that you would choose?
