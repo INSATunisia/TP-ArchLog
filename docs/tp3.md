@@ -4,9 +4,9 @@
 [![Download TP3](img/pdf.png)](tp3.pdf)
 
 # Introduction
-A software company (GLx) wants to build a forecast and planning solution (F&P) for a fashion retailer, to help them predict their future sales and figure out which goods are needed for each store, location, channel and on any given day, and this in order to be able to order the right amount to fulfill the demand. Then comes the "planning" side of the solution, where retail planners can benefit from the best planning strategies and use both these strategies and the generated forecast in order to plan a compelling assortment of products with the right choice count, depth and breadth; or how to build optimized price and promotional strategies.
+A software company (INSATix) wants to build a forecast and planning solution (F&P) for a fashion retailer, to help them predict their future sales and figure out which goods are needed for each store, location, channel on any given day, in order to be able to order the right amount to fulfill the demand. Then comes the "planning" side of the solution, where retail planners can benefit from the best planning strategies and use both these strategies and the generated forecast in order to plan a compelling assortment of products with the right choice count, depth and breadth; or how to build optimized price and promotional strategies.
 
-The team (UI, backend and data engineers) of  GLx has already held multiple meetings with the client in order to figure out the functional and non-functional requirements of this solution and they have agreed that there needs to be 3 applications: 2 web applications (One for forecasting and one for planning) and another headless application.
+The team (UI, backend and data engineers) of  INSATix has already held multiple meetings with the client in order to figure out the functional and non-functional requirements of this solution and they have agreed that there needs to be 3 applications: 2 web applications (One for forecasting and one for planning) and another headless application.
 
 # Functional requirements
 - Forecast Application:
@@ -28,11 +28,13 @@ The team (UI, backend and data engineers) of  GLx has already held multiple meet
 
 # Non Functional requirements & Other constraints
 - The UI needs to be highly responsive, especially when dealing with repetitive user actions that may trigger some heavy calculations.
-- This is the first time that GLx builds an F&P application so the solution will definitely need to be modified to fix bugs and/or improve performance, etc...
-- GLx is not only trying to build an F&P solution for this retailer, but as the forecast and planning features can be interesting for any other retailer, the team is also thinking about building a product that can easily be configured for future retailers without having to build a custom solution for each client.
+- This is the first time that INSATix builds an F&P application so the solution will definitely need to be modified to fix bugs and/or improve performance, etc...
+- INSATix is not only trying to build an F&P solution for this retailer, but as the forecast and planning features can be interesting for any other retailer, the team is also thinking about building a product that can easily be configured for future retailers without having to build a custom solution for each client.
 - We need to have the forecast and planning applications to be independently deployed.
 - A secure communication between the forecast and planning applications should be ensured, as well as between the applications and database layer.
 
 # Questions
-- In class, choose and explain the appropriate architecture for the described solution.
-- As a homework, implement few use cases of this solution [TBD in class] by explaining your choice of technologies as well.
+- Choose and explain the appropriate architecture for the described solution.
+- Use different UML diagrams to represent several views of these systems.
+- Emphasize your design choices for every non functional requirement and constraint.
+- Propose some key technologies to use and explain why.
