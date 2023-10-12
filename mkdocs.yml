@@ -77,7 +77,7 @@ extra_css:
 pages:
    - Software Architecure Labs: 'index.md'
    - Lab0 - OOP Design Patterns: 'tp0.md'
-  #  - Lab1 - The SOLID principles: 'tp1.md'
+   - Lab1 - The SOLID principles: 'tp1.md'
   #  - Lab2 - MV* Architectures : 'tp2.md'
   #  - Lab3 - Microservices Architecture : 'tp3.md'
   #  #- DS - Microservices avec Spring Boot et Spring Cloud : 'tp-ds.md'
