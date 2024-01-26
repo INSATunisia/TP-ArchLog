@@ -1,10 +1,11 @@
-![A hybrid software architecture](img/tp5.jpg)
+<!--![A hybrid software architecture](img/tp5.jpg)-->
+<center><img src="../img/tp5.jpg" width="400"></center>
 
 # Download PDF
 [![Download TP5](img/pdf.png)](tp5.pdf)
 
 # Requirements
-The GLx team has been asked to build a backend solution of an online shopping web application that revolves around the following main usecases:
+The INSATx team has been asked to build a backend solution of an online shopping web application that revolves around the following main usecases:
 
 
 - A customer can view products.
