@@ -1,43 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>http://INSATunisia.github.io/TP-ArchLog/</loc>
-         <lastmod>2024-04-26</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>http://INSATunisia.github.io/TP-ArchLog/index.html</loc>
+         <lastmod>2026-02-11</lastmod>
     </url>
     <url>
-         <loc>http://INSATunisia.github.io/TP-ArchLog/tp-ds/</loc>
-         <lastmod>2024-04-26</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>http://INSATunisia.github.io/TP-ArchLog/tp1.html</loc>
+         <lastmod>2026-02-11</lastmod>
     </url>
     <url>
-         <loc>http://INSATunisia.github.io/TP-ArchLog/tp0/</loc>
-         <lastmod>2024-04-26</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>http://INSATunisia.github.io/TP-ArchLog/tp2.html</loc>
+         <lastmod>2026-02-11</lastmod>
     </url>
     <url>
-         <loc>http://INSATunisia.github.io/TP-ArchLog/tp1/</loc>
-         <lastmod>2024-04-26</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://INSATunisia.github.io/TP-ArchLog/tp2/</loc>
-         <lastmod>2024-04-26</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://INSATunisia.github.io/TP-ArchLog/tp3/</loc>
-         <lastmod>2024-04-26</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://INSATunisia.github.io/TP-ArchLog/tp4/</loc>
-         <lastmod>2024-04-26</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://INSATunisia.github.io/TP-ArchLog/tp5/</loc>
-         <lastmod>2024-04-26</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>http://INSATunisia.github.io/TP-ArchLog/tp3.html</loc>
+         <lastmod>2026-02-11</lastmod>
     </url>
 </urlset>
