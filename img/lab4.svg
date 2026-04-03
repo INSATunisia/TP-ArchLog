@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <g transform="translate(200,195)">
+    <!-- left cloud -->
+    <path d="M-118,18 Q-118,-22 -90,-32 Q-85,-66 -57,-66 Q-36,-66 -26,-48 Q-11,-58 4,-38 Q16,-38 16,-14 Q16,18 0,18 Z"
+      fill="none" stroke="#E94560" stroke-width="6" stroke-linejoin="round"/>
+    <text x="-57" y="-2" text-anchor="middle" font-family="Arial" font-size="26" font-weight="900" fill="#E94560">!</text>
+    <!-- right cloud -->
+    <path d="M16,18 Q16,-22 44,-32 Q49,-66 77,-66 Q98,-66 108,-48 Q123,-58 138,-38 Q150,-38 150,-14 Q150,18 134,18 Z"
+      fill="none" stroke="#E94560" stroke-width="6" stroke-linejoin="round"/>
+    <text x="77" y="-2" text-anchor="middle" font-family="Arial" font-size="26" font-weight="900" fill="#E94560">?</text>
+    <!-- arc arrows above -->
+    <path d="M-57,-70 Q8,-112 77,-70" fill="none" stroke="#E94560" stroke-width="5" stroke-linecap="round"/>
+    <polygon points="74,-69 88,-68 80,-57" fill="#E94560"/>
+    <polygon points="-54,-69 -68,-68 -60,-57" fill="#E94560"/>
+    <!-- arrows down from clouds to box -->
+    <line x1="-46" y1="18" x2="-22" y2="42" stroke="#E94560" stroke-width="5" stroke-linecap="round"/>
+    <polygon points="-20,42 -32,36 -27,48" fill="#E94560"/>
+    <line x1="62" y1="18" x2="38" y2="42" stroke="#E94560" stroke-width="5" stroke-linecap="round"/>
+    <polygon points="36,42 48,36 44,48" fill="#E94560"/>
+    <!-- central box with X -->
+    <rect x="-28" y="42" width="72" height="58" rx="5" fill="#E94560"/>
+    <line x1="-14" y1="56" x2="30" y2="86" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+    <line x1="30" y1="56" x2="-14" y2="86" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+    <!-- platform base -->
+    <rect x="-65" y="104" width="146" height="12" rx="6" fill="#009688"/>
+    <rect x="-42" y="116" width="100" height="7" rx="3.5" fill="#26A69A"/>
+  </g>
+</svg>
